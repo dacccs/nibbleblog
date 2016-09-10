@@ -3,7 +3,7 @@
 $_LANG_CONFIG['DATA'] = array(
 	'native'=>'Magyar',
 	'english'=>'Hungarian',
-	'last_update'=>'28/08/2016',
+	'last_update'=>'10/09/2016',
 	'author'=>'Ottó Kiraly',
 	'email'=>'dacccs@gmail.com',
 	'url'=>'http://dacccs.zapto.org'
